@@ -8,17 +8,17 @@ public class fruitOrVege {
         Scanner sayang = new Scanner(System.in);
 
         String food = sayang.nextLine();
-        switch (food){
+        switch (food) {
             case "apple":
             case "cili":
-            System.out.println("makanan");
-            break;
-            
-                case "timun":
-                case "karet":
+                System.out.println("makanan");
+                break;
+
+            case "timun":
+            case "karet":
                 System.out.println("sayur");
                 break;
-            }
+        }
 
         sayang.close();
     }

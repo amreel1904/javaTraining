@@ -7,7 +7,7 @@ public class dayOfWeek {
     public static void main(String[] args) {
         Scanner sayang = new Scanner(System.in);
 
-        int day =Integer.parse.Int(sayang.nextLine());
+        int day = sayang.nextInt();
         switch (day){
             case 1: System.out.println("Monday");
             break;
@@ -17,6 +17,6 @@ public class dayOfWeek {
             break;
     
         }
-        
+        sayang.close();
     }
 }
