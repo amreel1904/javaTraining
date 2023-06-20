@@ -7,15 +7,25 @@ public class triangle {
         Scanner syg = new Scanner(System.in);
         int n = syg.nextInt();
 
-        for (int row = 1; row <= n; row++) {
+        // for (int row = 1; row <= n; row++) {
 
-            for (int col = 1; col <= row; col++) {
+        // for (int col = 1; col <= row; col++) {
+        // System.out.print("(.)");
+        // }
+        // System.out.println();
+
+        // }
+        int row = 1;
+        while (row <= n) {
+            int col = 1;
+            while (col <= row) {
                 System.out.print("(.)");
+                col++;
             }
             System.out.println();
-
+            row++;
         }
-
+        System.out.println();
         syg.close();
     }
 }

@@ -4,11 +4,11 @@ import java.util.*;
 
 public class accBalance {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner syg = new Scanner(System.in);
         double balance = 0.0;
 
         while (true) {
-            String input = scanner.nextLine();
+            String input = syg.nextLine();
             if (input.equals("end"))
                 break;
 
@@ -24,6 +24,6 @@ public class accBalance {
 
         }
         System.out.printf("Balance:Balance: %.2f\n", balance);
-
+syg.close();
     }
 }
