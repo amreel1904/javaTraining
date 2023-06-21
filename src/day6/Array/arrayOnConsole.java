@@ -1,4 +1,4 @@
-package day6Array;
+package day6.Array;
 
 public class arrayOnConsole {
     public static void main(String[] args) {

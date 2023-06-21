@@ -1,4 +1,4 @@
-package day6Array;
+package day6.Array;
 
 public class stringJoin {
     public static void main(String[] args) {

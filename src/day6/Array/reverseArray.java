@@ -1,6 +1,6 @@
 /*Read an array of int, reverse ur and print its elements in a single line, space-separated */
 
-package day6Array;
+package day6.Array;
 
 import java.util.*;
 

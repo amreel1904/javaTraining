@@ -1,6 +1,6 @@
 package day6;
 
-import java.util.*;
+
 
 public class nestedLoops {
 
