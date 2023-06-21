@@ -1,0 +1,672 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MainCard",
+            "request": "launch",
+            "mainClass": "test/day1.MainCard",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "PI",
+            "request": "launch",
+            "mainClass": "test/day1.PI",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "test/day1.Person",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "Personn",
+            "request": "launch",
+            "mainClass": "test/day1.Personn",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "TwelveDays",
+            "request": "launch",
+            "mainClass": "test/day1.TwelveDays",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "TwoMessages",
+            "request": "launch",
+            "mainClass": "test/day1.TwoMessages",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "Variable",
+            "request": "launch",
+            "mainClass": "test/day1.Variable",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "abadminit",
+            "request": "launch",
+            "mainClass": "test/day1.abadminit",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "characterandcodes",
+            "request": "launch",
+            "mainClass": "test/day1.characterandcodes",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "condition",
+            "request": "launch",
+            "mainClass": "test/day1.condition",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "distance",
+            "request": "launch",
+            "mainClass": "test/day1.distance",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "duit",
+            "request": "launch",
+            "mainClass": "test/day1.duit",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "test/day1.hello",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "method",
+            "request": "launch",
+            "mainClass": "test/day1.method",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "mian",
+            "request": "launch",
+            "mainClass": "test/day1.mian",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "test/day1.practice",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "reversechar",
+            "request": "launch",
+            "mainClass": "test/day1.reversechar",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "shape",
+            "request": "launch",
+            "mainClass": "test/day1.shape",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "spesial",
+            "request": "launch",
+            "mainClass": "test/day1.spesial",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "struc",
+            "request": "launch",
+            "mainClass": "test/day1.struc",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "test/day1.sum",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test/day1.test",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "time",
+            "request": "launch",
+            "mainClass": "test/day1.time",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "betweenrange",
+            "request": "launch",
+            "mainClass": "test/day4.betweenrange",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "bigNumber",
+            "request": "launch",
+            "mainClass": "test/day4.bigNumber",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "coffee",
+            "request": "launch",
+            "mainClass": "test/day4.coffee",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "compare",
+            "request": "launch",
+            "mainClass": "test/day4.compare",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "condition(1)",
+            "request": "launch",
+            "mainClass": "test/day4.condition",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "endwithN",
+            "request": "launch",
+            "mainClass": "test/day4.endwithN",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "evenOdd",
+            "request": "launch",
+            "mainClass": "test/day4.evenOdd",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "firstNnum",
+            "request": "launch",
+            "mainClass": "test/day4.firstNnum",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "firstNnumfor",
+            "request": "launch",
+            "mainClass": "test/day4.firstNnumfor",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "firstNnumformat",
+            "request": "launch",
+            "mainClass": "test/day4.firstNnumformat",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "greaterNumber",
+            "request": "launch",
+            "mainClass": "test/day4.greaterNumber",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "greaterNumber2",
+            "request": "launch",
+            "mainClass": "test/day4.greaterNumber2",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "increment",
+            "request": "launch",
+            "mainClass": "test/day4.increment",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "iterateChar",
+            "request": "launch",
+            "mainClass": "test/day4.iterateChar",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "kopi",
+            "request": "launch",
+            "mainClass": "test/day4.kopi",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "loopje",
+            "request": "launch",
+            "mainClass": "test/day4.loopje",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "password",
+            "request": "launch",
+            "mainClass": "test/day4.password",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "powerofnum",
+            "request": "launch",
+            "mainClass": "test/day4.powerofnum",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "powerofnumFormat",
+            "request": "launch",
+            "mainClass": "test/day4.powerofnumFormat",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "sumNnum",
+            "request": "launch",
+            "mainClass": "test/day4.sumNnum",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "temperature",
+            "request": "launch",
+            "mainClass": "test/day4.temperature",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "addbonus",
+            "request": "launch",
+            "mainClass": "test/day5.addbonus",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "breakOperator",
+            "request": "launch",
+            "mainClass": "test/day5.breakOperator",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "dayOfWeek",
+            "request": "launch",
+            "mainClass": "test/day5.dayOfWeek",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "decreasingNum",
+            "request": "launch",
+            "mainClass": "test/day5.decreasingNum",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "fruitOrVege",
+            "request": "launch",
+            "mainClass": "test/day5.fruitOrVege",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "makananOr",
+            "request": "launch",
+            "mainClass": "test/day5.makananOr",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "marketplace",
+            "request": "launch",
+            "mainClass": "test/day5.marketplace",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "minMaxLoop",
+            "request": "launch",
+            "mainClass": "test/day5.minMaxLoop",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "minmaxnum",
+            "request": "launch",
+            "mainClass": "test/day5.minmaxnum",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "modulus234",
+            "request": "launch",
+            "mainClass": "test/day5.modulus234",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "multiply",
+            "request": "launch",
+            "mainClass": "test/day5.multiply",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "numberinRange",
+            "request": "launch",
+            "mainClass": "test/day5.numberinRange",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "rollercoaster",
+            "request": "launch",
+            "mainClass": "test/day5.rollercoaster",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "sortedNumber",
+            "request": "launch",
+            "mainClass": "test/day5.sortedNumber",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "specialNumber",
+            "request": "launch",
+            "mainClass": "test/day5.specialNumber",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "sumDigits",
+            "request": "launch",
+            "mainClass": "test/day5.sumDigits",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "switch2",
+            "request": "launch",
+            "mainClass": "test/day5.switch2",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "vowelConsonant",
+            "request": "launch",
+            "mainClass": "test/day5.vowelConsonant",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "whileLoop",
+            "request": "launch",
+            "mainClass": "test/day5.whileLoop",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "yesno",
+            "request": "launch",
+            "mainClass": "test/day5.yesno",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "arrayOnConsole",
+            "request": "launch",
+            "mainClass": "test/day6.Array.arrayOnConsole",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "dayOfWeek(1)",
+            "request": "launch",
+            "mainClass": "test/day6.Array.dayOfWeek",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "foreach",
+            "request": "launch",
+            "mainClass": "test/day6.Array.foreach",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "reverseArray",
+            "request": "launch",
+            "mainClass": "test/day6.Array.reverseArray",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "stringJoin",
+            "request": "launch",
+            "mainClass": "test/day6.Array.stringJoin",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "accBalance",
+            "request": "launch",
+            "mainClass": "test/day6.accBalance",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "letterCombine",
+            "request": "launch",
+            "mainClass": "test/day6.letterCombine",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "magicNumber",
+            "request": "launch",
+            "mainClass": "test/day6.magicNumber",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "nestedLoops",
+            "request": "launch",
+            "mainClass": "test/day6.nestedLoops",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "nestedWhile",
+            "request": "launch",
+            "mainClass": "test/day6.nestedWhile",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "numbers1Nstep3",
+            "request": "launch",
+            "mainClass": "test/day6.numbers1Nstep3",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "quiz",
+            "request": "launch",
+            "mainClass": "test/day6.quiz",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "specialBonus",
+            "request": "launch",
+            "mainClass": "test/day6.specialBonus",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "sumOfDigit",
+            "request": "launch",
+            "mainClass": "test/day6.sumOfDigit",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "triangle",
+            "request": "launch",
+            "mainClass": "test/day6.triangle",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "printListForLoop",
+            "request": "launch",
+            "mainClass": "test/day7.list.printListForLoop",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "printStringDotJoin",
+            "request": "launch",
+            "mainClass": "test/day7.list.printStringDotJoin",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "readList",
+            "request": "launch",
+            "mainClass": "test/day7.list.readList",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "readListSingleLine",
+            "request": "launch",
+            "mainClass": "test/day7.list.readListSingleLine",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "sortingList",
+            "request": "launch",
+            "mainClass": "test/day7.list.sortingList",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "SumAdjacentEqualNumbers",
+            "request": "launch",
+            "mainClass": "test/day7.method.SumAdjacentEqualNumbers",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "add",
+            "request": "launch",
+            "mainClass": "test/day7.method.add",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "delete",
+            "request": "launch",
+            "mainClass": "test/day7.method.delete",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "gaussTrick",
+            "request": "launch",
+            "mainClass": "test/day7.method.gaussTrick",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "grades",
+            "request": "launch",
+            "mainClass": "test/day7.method.grades",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "insert",
+            "request": "launch",
+            "mainClass": "test/day7.method.insert",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "method1",
+            "request": "launch",
+            "mainClass": "test/day7.method.method1",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "method2",
+            "request": "launch",
+            "mainClass": "test/day7.method.method2",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "rectangleArea",
+            "request": "launch",
+            "mainClass": "test/day7.method.rectangleArea",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "AttendanceManagementSystem",
+            "request": "launch",
+            "mainClass": "test/system.AttendanceManagementSystem",
+            "projectName": "test"
+        }
+    ]
+}
