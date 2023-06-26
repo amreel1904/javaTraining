@@ -12,7 +12,7 @@ public class rectangleArea {
 		double area = totalArea(w, h);
 		System.out.printf("%.0f%n", area);
 		
-		
+		sc.close();
 	}
 
 	public static double totalArea(double h, double w) {
