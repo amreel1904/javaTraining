@@ -1,20 +1,20 @@
-1E		| O
-2AD		| O
-3BE		| O
-4E		| X
-5AE		| X
-6D		| 
-7E		| 
-8B		| 
-9E		| 
-10A		| 
-11BCD	| 
-12B		| 
-13G		| 
-14C		| 
-15ACDF	| 
-16E		| 
-17C		| 	
-18ABC	| 
-19B		| 
-20CD	| 
+E		| O
+AD		| O
+BE		| O
+E		| X
+AE		| X
+D		| O
+E		| X
+B		| X
+E		| X
+A		| X
+BCD		| O
+B		| O
+G		| O
+C		| X
+ACDF	| X
+E		| X
+C		| O	
+ABC		| X
+B		| X
+CD		| X = 8/20
