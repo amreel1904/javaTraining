@@ -1,0 +1,20 @@
+BCD	= X	21B   = X	41A = X
+C	= X	22C   = X	42D = O
+AC	= O	23D	  = X	43C = X
+AB	= O	24C	  = X	44D = O
+A	= O	25AD  = O	45E = X
+B	= X	26BC  = O	46E = X
+AE	= X	27C	  = X	47A = X
+D	= X	28D	  = O	48C = X
+D	= X	29D	  = O	49ACE=X
+B	= O	30CE  = X	50E = O
+CD	= O	31ACDE= =	51B = X
+CD	= X	32AB  = X	52A = X
+D	= X	33BCE =	X	53C = X
+A	= O	34D	  =	X	54D = OX
+ABD	= X	35A	  =	O	55AB= X
+E	= X	36ABCD= =	56C = X
+DE	= O	37C	  =	X	57B = X
+AD	= X	38F	  =	O	58A = X
+ADE	= O	39ABC =	X	59C = X
+DE	= X	40A	  =	O	60E = O 20/60
