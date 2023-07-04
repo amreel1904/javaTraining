@@ -1,5 +1,5 @@
 BCD	= X	21B   = X	41A = X
-C	= X	22C   = X	42D = O
+C	= X	22C   = X	42D = X
 AC	= O	23D	  = X	43C = X
 AB	= O	24C	  = X	44D = O
 A	= O	25AD  = O	45E = X
