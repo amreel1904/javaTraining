@@ -10,8 +10,8 @@ D	= X	29D	  = O	49ACE=X
 B	= O	30CE  = X	50E = O
 CD	= O	31ACDE= =	51B = X
 CD	= X	32AB  = X	52A = X
-D	= X	33BCE =	X	53C = X
-A	= O	34D	  =	X	54D = OX
+D	= X	33BCE =	X	53C = O
+A	= O	34D	  =	X	54D = X
 ABD	= X	35A	  =	O	55AB= X
 E	= X	36ABCD= =	56C = X
 DE	= O	37C	  =	X	57B = X
